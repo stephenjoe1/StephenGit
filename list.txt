@@ -9,3 +9,5 @@ pepsi
 vodka
 whiskey
 yogurt
+Wine
+taytos
