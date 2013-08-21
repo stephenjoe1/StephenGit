@@ -3,3 +3,8 @@ butter
 bread
 cheese
 yogurt
+coke
+pepsi
+whiskey
+vodka
+beer
