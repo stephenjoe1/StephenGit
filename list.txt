@@ -3,3 +3,4 @@ milk
 butter
 bread
 cheese
+yogurt
