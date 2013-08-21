@@ -1,4 +1,3 @@
-eggs
 milk
 butter
 bread
