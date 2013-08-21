@@ -8,3 +8,4 @@ pepsi
 whiskey
 vodka
 beer
+cider
